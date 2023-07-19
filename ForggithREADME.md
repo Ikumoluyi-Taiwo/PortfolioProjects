@@ -17,7 +17,7 @@ The Target Tables contain information/records of Yearly/Monthly Product Targets 
 The Target Table was then merged with the DimProducts Table using the Primary/Foreign Key relationship of the ProductID column in both tables to retrieve the Product Price. This is important in order to calculate the budgeted Target Revenue. The Month and Year columns were duplicated, and the duplicated columns were then merged to form a Date column. Furthermore, the Sales 2022 and Sales 2023-2025 tables were appended to create a new Sales Table that has all Sales records from years 2022 to 2025 which was then merged with the DimProducts Table using the Primary/Foreign key relationship of the ProductID Column in both Tables to get the Product Price.This is crucial in order to calculate the Actual Revenue.
 
 ## Model.
-![Screenshot (11)](https://github.com/Ikumoluyi-Taiwo/Forggith_Analysis/assets/139241043/7b1e7ef4-829c-4ed8-aacb-9cb6a3a20340)
+![Data Model](https://github.com/Ikumoluyi-Taiwo/PortfolioProjects/assets/139241043/652cdd03-141c-4cd8-bef9-3f9c80ef7579)
 
 ## Analysis.
 1. The Sales Representative can track their performances through-out the periods to plan their marketing activities.
@@ -38,8 +38,8 @@ The Target Table was then merged with the DimProducts Table using the Primary/Fo
 11. Revenue by Channel
 12. Revenue by Product Class
 
-![Sales Report 1](https://github.com/Ikumoluyi-Taiwo/Forggith_Analysis/assets/139241043/b038b511-b7c2-43dc-9e42-2a8d24f4b2f6)
-![Sales Report 2](https://github.com/Ikumoluyi-Taiwo/Forggith_Analysis/assets/139241043/2e456cf2-339d-4b62-afab-fa741c76f0d0)
+![Sales Report 1](https://github.com/Ikumoluyi-Taiwo/PortfolioProjects/assets/139241043/bb5c4cea-ef6e-4d0f-9d2c-a59b76e4d3f1)
+![Sales Report 2](https://github.com/Ikumoluyi-Taiwo/PortfolioProjects/assets/139241043/ffe6775b-0fa2-4568-8ce1-73aaf3132432)
 
 ## Marketing Performance.
 1. Revenue Achieved vs Revenue Target
@@ -51,8 +51,8 @@ The Target Table was then merged with the DimProducts Table using the Primary/Fo
 7. Actual Revenue Achievement by Sales Team
 8. Revenue and Volume Achievement by Product.
 
-![Marketing Performance 1](https://github.com/Ikumoluyi-Taiwo/Forggith_Analysis/assets/139241043/c4f8bf12-b304-4370-bc71-ff14a75f4379)
-![Marketing Performance 2](https://github.com/Ikumoluyi-Taiwo/Forggith_Analysis/assets/139241043/c9ac56d5-3e01-420d-b727-94b19d7ef46c)
+![Marketing Performance 1](https://github.com/Ikumoluyi-Taiwo/PortfolioProjects/assets/139241043/418b3eab-5631-4bb8-a50e-241e351b45d7)
+![Marketing Performance 2](https://github.com/Ikumoluyi-Taiwo/PortfolioProjects/assets/139241043/33e462b0-8480-4062-9524-8a522dce951e)
 
 ## Report.
 You can find the full report of this Analysis here: https://app.powerbi.com/reportEmbed?reportId=73496be3-742d-4bc4-b8dd-6f60f7f80607&autoAuth=true&ctid=c1b84f64-1fcc-4038-a4fa-2bfdda89f208
