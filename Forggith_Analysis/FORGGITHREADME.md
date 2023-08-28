@@ -10,7 +10,7 @@ Forggith is looking to create some Power BI Reports to assist in guiding their s
 There are two raw Excel files named **PharmTargets** and **PharmDataset** provided by FORESIGHT BI & ANALYTICS.
 
 ## Skills Shown.
-The datasets needed little cleaning but most of the challenges lay in the transformation process.
+The dataset needed little cleaning but most of the challenges lay in the transformation process.
 
 ## Transformation and Data Modelling.
 The Target Tables contain information/records of Yearly/Monthly Product Targets (Volume) assigned to each Sales representative, identified by the SalesRepID. This table was duplicated four times for each distinct year (e.g., 2022, 2023, 2024, and 2025) separately. Subsequently, the corresponding tables were appended to form a new table, consolidating the previously separate yearly Target columns. The columns were edited and renamed based on the information they contain.
