@@ -43,10 +43,8 @@ In this dataset, typos were corrected as seen in this case:
 ## Model.
 ![Data Model](https://github.com/Ikumoluyi-Taiwo/Excel-Projects/assets/139241043/3a0eabe2-9917-488e-b15d-70361e54ee37)
 
-
-
 ## Report.
-You can find the full report of this Analysis here: https://app.powerbi.com/reportEmbed?reportId=73496be3-742d-4bc4-b8dd-6f60f7f80607&autoAuth=true&ctid=c1b84f64-1fcc-4038-a4fa-2bfdda89f208
+You can find the full report of this Analysis here: https://app.powerbi.com/view?r=eyJrIjoiZDYwNmEwZTMtM2QwOC00ZWY0LWE2ZDUtNDg1ODQ3NzJlMWVjIiwidCI6ImMxYjg0ZjY0LTFmY2MtNDAzOC1hNGZhLTJiZmRkYTg5ZjIwOCJ9
 
 ## Conclusion.
 The request from the stakeholders was fulfilled, and a report addressing their demands produced. 
